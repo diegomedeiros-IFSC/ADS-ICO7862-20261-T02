@@ -4,3 +4,5 @@ Repositório da turma 02 da disciplina de ICO7862 em 2026-1
 Uma alteração local no README
 
 Uma alteração remota no README
+
+Um conflito local
